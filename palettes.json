@@ -1,0 +1,17 @@
+{
+    "Pastel": [
+        "#FFB3BA",
+        "#FFDFBA",
+        "#FFFFBA",
+        "#BAFFC9",
+        "#BAE1FF",
+        "#FFFFFF"
+    ],
+    "Dark Mode": [
+        "#121212",
+        "#1E1E1E",
+        "#3A3A3A",
+        "#BB86FC",
+        "#03DAC6"
+    ]
+}
